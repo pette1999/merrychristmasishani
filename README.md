@@ -1,4 +1,4 @@
 # merrychristmasishani
-Merry Christmas Ishani
 
-This is a fun website I made for my best friend ishani. Happy Birthday!
+This is a fun website I made for my best friend ishani. Merry Christmas Ishani
+
