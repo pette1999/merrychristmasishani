@@ -2,5 +2,5 @@
 
 This is a fun website I made for my best friend ishani. Merry Christmas Ishani!
 
-![preview](preview)
+![preview](preview.png)
 
